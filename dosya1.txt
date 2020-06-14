@@ -3,3 +3,7 @@ ikinci satir
 üçüncü satir
 
 beşinci
+güneş
+bulut
+sıcak
+hava
